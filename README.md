@@ -1,4 +1,4 @@
-# Intoduction
+# Analisa target nasabah bank untuk subscribe deposito
 
 ## Problem
 1. Bank Portugal ingin meningkatkan jumlah nasabah yang mendaftar deposito. Salah satu campaign yang dilakukan adalah telephonic marketing.
