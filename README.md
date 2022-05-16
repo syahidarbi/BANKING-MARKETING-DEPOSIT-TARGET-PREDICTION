@@ -1,4 +1,4 @@
-# project_rakamin
+# Intoduction
 
 ## Problem
 1. Bank Portugal ingin meningkatkan jumlah nasabah yang mendaftar deposito. Salah satu campaign yang dilakukan adalah telephonic marketing.
