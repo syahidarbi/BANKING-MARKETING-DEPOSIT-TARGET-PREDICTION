@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @syahidarbi
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data reporting
-- 💞️ I’m looking to collaborate on data team
-- 📫 How to reach me https://www.linkedin.com/in/syahid-arbi-16360919b
+# project_rakamin
 
-<!---
-syahidarbi/syahidarbi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Problem
+1. Bank Portugal ingin meningkatkan jumlah nasabah yang mendaftar deposito. Salah satu campaign yang dilakukan adalah telephonic marketing.
+2. Telephonic marketing membutuhkan biaya besar, sehingga tidak bisa ditargetkan ke seluruh nasabah
+3. Perlu adanya metode yang tepat agar dapat memilih nasabah yang sesuai sehingga menghemat resource dari bank
+
+## Goals
+1. Meningkatkan conversion rate nasabah yang tertarik bergabung ke dalam program deposito berjangka
+2. Meminimalisir jumlah cost yang dikeluarkan oleh management dalam menjalankan campaign program tersebut
+
+## Solusi
+1. Membuat model machine learning yang dapat memprediksi profil nasabah yang sesuai untuk diberikan campaign deposito
+
+## Business Metrics
+1. Conversion Rate (Jumlah nasabah yang mendaftar deposito setelah diberikan campaign)
+2. Acquisition Cost (Biaya telemarketing yang dikeluarkan selama campaign berlangsung)
